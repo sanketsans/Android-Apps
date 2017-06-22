@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_904fa6449b44b6b3fb73fd7053b9fdb0ed3b2678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.8.0_5900db57e10072dfdde87ba854dcbc2892c2f6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_4a863b96600670d0677acb2d9a5befe82bd9f230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_3aedb093bca956aa3d7aa29eb6ef2258b204b10d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_91eae6d2f10b389f3b186e2aeff258dcb1a1c9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_c3e7e48d69429f6d2d21fe9569c28a70cf00f3d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_ce1e2fa1cfe08d13ffcc5d4b69a3e8b76d0ae7d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_a5fa98798c3e67a765ea35fcac17112488b85c21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_ac0b71a7f50f6fd4ac4a32b0f32d77d2fffcf82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_3ef7f333041b192d9eb6ad3bd0b0772783fe93bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_c63485c879b4eb6d23fb9fd659836be5c5ed502f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_0e8c6e79942ef0384b014fb463e493da3677e491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.8.0_4099cf7ed028dbb47d74ee60711f3da3e4851e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_3e4d7d1a1c05198520ed53d3c427118016c00c66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_fc0b2d0257da03c195442beab4f84e647bd7fdde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_77913e31adeb05f9ed53d1cdb8ec2580fb55fbcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_ae8ccc515871098bc158518ee9c574d44b721310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_8497ec6fcae7b329f24d8556400e2f975264ff28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_afbab759ea2f2dd8bfab52841f4fc6482a63d8e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.8.0_aa66f6f8a8b3ff51ecd13017a21aa435964185f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_c846111bc75ea3de3c7cc1503d29f9790d466b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_e30f1733469fa37563281440d41f8404d8564383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_9ac01a2439ea1b729ed4af8eed8066af167c3c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sanket/HealthyMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/sanket/HealthyMe/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_64ad11aa2c50cc1a27101a171658429c5b1ac0e6.jar" />
+    </item>
+
+</items>
